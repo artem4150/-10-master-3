@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="лаба10.ElectricGuitar">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAACAAAQEgAAAAAAAAAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ElectricGuitar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary1.MusicalInstrument">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary1.Student">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="лаба10.Functions">
+    <Position X="0.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="лаба10.Guitar">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAACAAAQEgAAAAAAAIAAEAAAAAAACBAAAABA=</HashCode>
+      <FileName>Guitar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary1.GuitarComparer">
+    <Position X="0.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>GuitarComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary1.IdNumber">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IdNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="лаба10.MusicalInstrument">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAACAAAQEgAAAAAQAAAAMAAAAAAACAAAAABA=</HashCode>
+      <FileName>MusicalInstrument.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="лаба10.Piano">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAACAAAAEgAEAEAAAAAAEAAAAAAACAAAAIAA=</HashCode>
+      <FileName>Piano.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="лаба_9_2.Student">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAABAQAAEhEUBIAQEAAAMQAACAAgAAAAIBAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibrary1.IInit">
+    <Position X="0.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IInit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
